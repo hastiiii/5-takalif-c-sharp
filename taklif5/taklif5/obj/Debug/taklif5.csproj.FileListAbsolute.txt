@@ -1,0 +1,5 @@
+D:\code2\taklif5\taklif5\bin\Debug\taklif5.exe
+D:\code2\taklif5\taklif5\bin\Debug\taklif5.pdb
+D:\code2\taklif5\taklif5\obj\Debug\taklif5.csproj.CoreCompileInputs.cache
+D:\code2\taklif5\taklif5\obj\Debug\taklif5.exe
+D:\code2\taklif5\taklif5\obj\Debug\taklif5.pdb

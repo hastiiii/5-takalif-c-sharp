@@ -1,0 +1,6 @@
+D:\code2\taklif2\taklif2\bin\Debug\taklif2.exe
+D:\code2\taklif2\taklif2\bin\Debug\taklif2.pdb
+D:\code2\taklif2\taklif2\obj\Debug\taklif2.csproj.AssemblyReference.cache
+D:\code2\taklif2\taklif2\obj\Debug\taklif2.csproj.CoreCompileInputs.cache
+D:\code2\taklif2\taklif2\obj\Debug\taklif2.exe
+D:\code2\taklif2\taklif2\obj\Debug\taklif2.pdb
